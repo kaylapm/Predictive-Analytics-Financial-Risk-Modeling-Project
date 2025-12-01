@@ -97,5 +97,5 @@ The evaluation identified the most optimal model for financial risk prediction b
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/financial-risk-modeling.git
+git clone https://github.com/kaylapm/Predictive-Analytics-Financial-Risk-Modeling-Project.git
 cd financial-risk-modeling
